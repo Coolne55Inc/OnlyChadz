@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMceLSgJEvPucbysioLcI1z4Z4zkXjj1XmQ&s');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Chewy", "Comic Sans", sans-serif;
+    text-align: center;
+    width: 80%;
+    max-width: 1000px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+h1, ul, ol, li{
+    background-color: skyblue;
+    color: whitesmoke;
+}
+li{
+    font-size: 20px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+}
